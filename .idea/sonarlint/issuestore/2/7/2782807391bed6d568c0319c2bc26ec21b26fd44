@@ -1,0 +1,16 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "After: %s" 3 times.(‰ô¹Êúÿÿÿÿ8–ß’¾½0
+0
+java:S1220""Move this file to a named package.
+c
+java:S2259"AA "NullPointerException" could be thrown; "str" is nullable here.(‰ô¹Êúÿÿÿÿ8¬ß’¾½0
+P
+java:S1118":Add a private constructor to hide the implicit public one.(áÜÆï
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿ–Ş8õ’¾½0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ–Ş
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ô¹Êúÿÿÿÿ8Ö»Š¾½0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(‰ô¹Êúÿÿÿÿ8¿‰‹¾½0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·õ²®ûÿÿÿÿ8±ß’¾½0

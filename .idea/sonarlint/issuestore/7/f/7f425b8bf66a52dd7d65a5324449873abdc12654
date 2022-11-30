@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+G
+java:S1481"1Remove this unused "currentIndex" local variable.(ùî„
+L
+java:S1197"*Move the array designators [] to the type.(ùÂñÙüÿÿÿÿ8Â÷³µ·0
+u
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(´¯²U8Ã÷³µ·0
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ù©È±

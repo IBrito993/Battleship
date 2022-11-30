@@ -1,0 +1,11 @@
+
+n
+java:S1104"SMake counter a static final constant or non-public and provide accessors if needed.(ˆ‹„ðúÿÿÿÿ
+H
+java:S1444"-Make this "public static counter" field final(ˆ‹„ðúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ýßôâùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…ÙŒÑøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž–Â™úÿÿÿÿ

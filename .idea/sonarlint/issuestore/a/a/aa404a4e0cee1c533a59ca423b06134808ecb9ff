@@ -1,0 +1,18 @@
+
+X
+java:S1119";Refactor the code to remove this label and the need for it.(»ëµ§8ºà×ù»0
+X
+java:S1119";Refactor the code to remove this label and the need for it.(»¨Ü8ºà×ù»0
+6
+java:S1065"Remove this unused label.(»¨Ü8ºà×ù»0
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(‡¢Ëøÿÿÿÿ
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(®ì«½8Ê²Àù»0
+0
+java:S1220""Move this file to a named package.
+X
+java:S1119";Refactor the code to remove this label and the need for it.(»ëµ§8Ø®¶“¼0
+X
+java:S1119";Refactor the code to remove this label and the need for it.(»¨Ü8Ù®¶“¼0
+6
+java:S1065"Remove this unused label.(»¨Ü8Ù®¶“¼0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‡¢Ëøÿÿÿÿ8İ®¶“¼0
